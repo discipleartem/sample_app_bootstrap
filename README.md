@@ -1,8 +1,8 @@
 == README
 
-Building demo blog by railstutorial.ru  Chapter 3
+Building demo blog by railstutorial.ru  Chapter 5 (Bootstrap)
 
-http://railstutorial.ru/chapters/4_0/static-pages#top
+http://railstutorial.ru/chapters/4_0/filling-in-the-layout#top
 
 * Ruby version 2.1.2
 
@@ -16,12 +16,7 @@ http://railstutorial.ru/chapters/4_0/static-pages#top
 
 - do rake assets:precompile for working styles
 
-help with run test at Listing 3.10
-http://stackoverflow.com/questions/17750864/ruby-on-rails-tdd-error-with-bundle-exec-rspec
 
-- no models
-- fail with RSpec
-
-App at production - https://fierce-everglades-48619.herokuapp.com
+App at production - https://radiant-river-93014.herokuapp.com
 
 
